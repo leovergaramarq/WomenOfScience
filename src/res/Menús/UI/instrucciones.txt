@@ -1,0 +1,5 @@
+Creo que igual ya se entiende fácilmente, pero explico porsiaca.
+La primera capa es el fondo (igual para todos los menús sin importar el idioma), luego vendrían los respectivos menús;
+obviamente dependiendo del idioma seleccionado (hasta ahora van 3). Por último, repecto al menú de ajustes, los iconos
+se mostrarán dependiendo de los estados on/off (lo sé, aún no hay muchas opciones lol). Ahí dejo un ejemplo de cómo 
+deberían quedar los menús.

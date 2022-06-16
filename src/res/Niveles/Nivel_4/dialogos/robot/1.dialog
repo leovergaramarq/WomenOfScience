@@ -1,0 +1,5 @@
+-p	Hola, Bobby. Me perdí en el tren, ¿qué debería hacer ahora?
+-n	Pues mira hacia la derecha, en las Puerdas de la NAZA.
+-n	Parece que esa NPC necesita ayuda. Creo que deberías ir, estoy seguro de que aprenderás nuevas cosas.
+-p	De acuerdo BOBBY. Veré que sucede.
+-n	... ==T (se da por vencido en decir que no es Bobby).

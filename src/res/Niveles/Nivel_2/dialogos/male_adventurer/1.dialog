@@ -1,0 +1,13 @@
+-p	Disculpe, señor. Mi nombre es Sarah.
+-p	Es difícil de explicar, pero estoy en una travesía para aprender sobre la historia y la mujer.
+-n	Hola Sarah, parece que tienes suerte. 
+-n	Mi nombre es Gustavo y soy un historiador que está escribiendo un libro y que acaba de perder su tren.
+-p	Oh, mucho gusto, y qué mal lo de su tren. ¿Lo escuché decir que es un historiador y escritor?
+-n	Jaja, sí... pero al menos podré continuar con mi libro.
+-p	Oh ¿me podría decir de que se trata el libro?
+-n	Es la historia de Katherine Johnson,  Mary Jackson y Dorothy Vaughan.
+-p	Nunca había oído hablar de ellas. ¿Quienes son?
+-n	No me sorprende que no sepas de ellas. La verdad no son muy reconocidas. Aunque fueron tres importantes científicas afroamericanas durante el siglo pasado.
+-p	Genial!! ¿podría contarme más sobre ellas?
+-n	Me encantaría pero estoy apurado para comprar mi ticket de tren.
+-n	Si vienes a la estación te podré contar más sobre esas increibles mujeres.
