@@ -1,5 +1,5 @@
 # WomenOfScience
-Platform 2D game about Sarah, a fan of history and adventure, and on her journey to discover how some women have historically and decisively contributed to science in America. As part of the Wstem project, Women of Science seeks to promote women's access to science and related college careers. Project created only for academic purposes.
+2D platform game about Sarah, who is passionate about history and adventure. Join Sarah on her journey to discover how some women have been instrumental in science in America throughout history. As part of the Wstem project, Women of Science seeks to promote women's access to science and related university careers. Project created only for academic purposes.
 
 <img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay1.png" width="700">
 
