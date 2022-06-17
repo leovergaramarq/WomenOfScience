@@ -1,7 +1,7 @@
 # WomenOfScience
 2D platform game about Sarah, who is passionate about history and adventure. Join Sarah on her journey to discover how some women have been instrumental in science in America throughout history. As part of the Wstem project, Women of Science seeks to promote women's access to science and related university careers. Project created only for academic purposes.
 
-<img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay1.png" width="700">
+<img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay1.png" height="400">
 
 ### Built With
 
@@ -23,7 +23,7 @@ You can clone this repsitory to get the source code
  1. Open the project with your IDE.
  2. Run the class `main.Main.java`.
  
- <img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay2.png" width="700">
+ <img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay2.png" height="400">
  
 ## Build
 
@@ -40,3 +40,13 @@ The process of generating a .jar executable is guided by your IDE.
  - Leonardo Aguilera - [leoar0810](https://github.com/leoar0810)
  - Henry Caicedo - [HenryCaicedo](https://github.com/HenryCaicedo)
  - Fernando Acuña
+
+## Acknowledgements
+
+ - [freepik](https://freepik.com)
+ - [Kenney](https://kenney.nl)
+ - [OfficialMCNetwork](https://www.youtube.com/user/OfficialMCNetwork)
+ - [bensound](https://www.bensound.com)
+
+## Further Information
+Visit [Women of Science's blog](https://wos-col.blogspot.com) for detailed information about releases, installation and references.
