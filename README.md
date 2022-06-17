@@ -21,7 +21,7 @@ You can clone this repsitory to get the source code
 ## Usage
 
  1. Open the project with your IDE.
- 2. Run the class `main.Main.java`.
+ 2. Run the class `juegoplataforma.JuegoPlataforma.java`.
  
  <img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay2.png" height="400">
  
