@@ -1,7 +1,7 @@
 # WomenOfScience
 2D platform game about Sarah, who is passionate about history and adventure. Join Sarah on her journey to discover how some women have been instrumental in science in America throughout history. As part of the Wstem project, Women of Science seeks to promote women's access to science and related university careers. Project created only for academic purposes.
 
-<img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay1.png" height="400">
+<img src="https://user-images.githubusercontent.com/73978713/174461371-25dbfe69-5e9d-4baa-aed5-d41c9879d5c6.png" height="400">
 
 ### Built With
 
@@ -22,8 +22,7 @@ You can clone this repsitory to get the source code
 
  1. Open the project with your IDE.
  2. Run the class `juegoplataforma.JuegoPlataforma.java`.
- 
- <img src="https://raw.githubusercontent.com/LeonardoVergara/WomenOfScience/main/.github/images/gameplay2.png" height="400">
+ <img src="https://user-images.githubusercontent.com/73978713/174461372-3269a9a8-460d-40da-9854-500bdd14697c.png" height="400">
  
 ## Build
 
