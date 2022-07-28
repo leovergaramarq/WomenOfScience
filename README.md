@@ -1,5 +1,5 @@
 # WomenOfScience
-2D platform game about Sarah, who is passionate about history and adventure. Join Sarah on her journey to discover how some women have been instrumental in science in America throughout history. As part of the Wstem project, Women of Science seeks to promote women's access to science and related university careers. Project created only for academic purposes.
+2D platform game about Sarah, who is passionate about history and adventure. Join Sarah on her journey to discover how some women have been instrumental in science in America throughout history. As part of the Wstem project, Women of Science seeks to promote women's participation in science and related university careers. Project created only for academic purposes.
 
 <img src="https://user-images.githubusercontent.com/73978713/174461371-25dbfe69-5e9d-4baa-aed5-d41c9879d5c6.png" height="400">
 
