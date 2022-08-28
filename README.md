@@ -35,7 +35,7 @@ The process of generating a .jar executable is guided by your IDE.
 ## Authors
 
  - Leonardo Lizcano - [LeoLizc](https://github.com/LeoLizc)
- - Leonardo Vergara - [LeonardoVergara](https://github.com/LeonardoVergara)
+ - Leonardo Vergara - [vergaraldvm](https://github.com/vergaraldvm)
  - Leonardo Aguilera - [leoar0810](https://github.com/leoar0810)
  - Henry Caicedo - [HenryCaicedo](https://github.com/HenryCaicedo)
  - Fernando Acuña
