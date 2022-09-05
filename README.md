@@ -16,7 +16,7 @@
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/vergaraldvm/WomenOfScience.git
+    git clone https://github.com/leovergaramaq/WomenOfScience.git
 
 ## Usage
 
@@ -35,7 +35,7 @@ The process of generating a .jar executable is guided by your IDE.
 ## Authors
 
  - Leonardo Lizcano - [LeoLizc](https://github.com/LeoLizc)
- - Leonardo Vergara - [vergaraldvm](https://github.com/vergaraldvm)
+ - Leonardo Vergara - [leovergaramaq](https://github.com/leovergaramaq)
  - Leonardo Aguilera - [leoar0810](https://github.com/leoar0810)
  - Henry Caicedo - [HenryCaicedo](https://github.com/HenryCaicedo)
  - Fernando Acuña
